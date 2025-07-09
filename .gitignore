@@ -1,0 +1,47 @@
+# Dependency directories
+node_modules/
+
+# TypeScript compiled output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+
+# Cache
+.npm
+.eslintcache
+
+# Optional - lock files (usually tracked, but can be ignored depending on team preference)
+# package-lock.json
+# yarn.lock
+
+# Sensitive configuration backups
+src/config/userMapping.ts.backup.*
