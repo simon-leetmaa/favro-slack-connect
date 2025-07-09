@@ -1,6 +1,6 @@
 # Favro-Slack Integration
 
-A professional integration service that automatically sends direct messages to Slack users when they are mentioned in Favro comments. Perfect for teams using both Favro and Slack who want to improve communication and responsiveness.
+An integration service that automatically sends direct messages to Slack users when they are mentioned in Favro comments. Perfect for teams using both Favro and Slack who want to improve communication and responsiveness.
 
 ## 🌟 Key Features
 
@@ -36,7 +36,7 @@ All secrets are stored as environment variables and never hardcoded. No data is 
 
 #### Basic Information
 
-- **App Name**: Favro Comment Buddy
+- **App Name**: Favro Comment Buddy (or any other name)
 - **Description**: Notifies you on Slack when you're mentioned in a Favro comment.
 - **Background Color**: #634b70
 - **Long Description**: A helpful bot that sends you direct Slack notifications whenever you're mentioned in a Favro comment. Stay instantly updated, never miss important feedback, and streamline your team collaboration—all without leaving Slack.
